@@ -4,5 +4,4 @@
 
 import './css/styles.scss'
 import './js/markup-rendering'
-import './js/function'
 import './js/event-listeners'

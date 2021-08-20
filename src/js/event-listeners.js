@@ -3,6 +3,6 @@
 // ----------------------------------------------------------------------------
 
 import { gallery } from './accesses'
-import { handleNavClick } from './function'
+import { handleNavClick } from './handle-nav-click'
 
 gallery.addEventListener('click', handleNavClick)
