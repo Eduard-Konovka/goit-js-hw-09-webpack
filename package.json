@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "webpack --mode=development",
-    "dev": "webpack-dev-server --mode=development",
+    "start": "webpack-dev-server --mode=development",
+    "dev": "webpack --mode=development",
     "prod": "webpack --mode=production"
   },
   "repository": {
@@ -13,7 +13,7 @@
     "url": "git+https://github.com/Eduard-Konovka/webpack-test.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Eduard Konovka <ed098ua@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Eduard-Konovka/webpack-test/issues"
