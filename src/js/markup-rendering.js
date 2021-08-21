@@ -1,5 +1,5 @@
-import { gallery } from './accesses'
-import galleryItems from './bd'
+import { gallery } from './refs'
+import galleryItems from './db'
 
 // - Создание и рендер разметки по массиву данных `galleryItems`
 // из`app.js` и предоставленному шаблону.

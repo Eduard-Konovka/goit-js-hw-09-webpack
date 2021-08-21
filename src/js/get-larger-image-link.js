@@ -1,4 +1,4 @@
-import { currentLargeImage } from './accesses'
+import { currentLargeImage } from './refs'
 
 // - Подмена значения атрибута `src` элемента `img.lightbox__image`.
 export function getLargerImageLink(targetImage) {

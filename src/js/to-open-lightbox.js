@@ -1,4 +1,4 @@
-import { lightbox, lightboxCloseOverlay, lightboxCloseBtn } from './accesses'
+import { lightbox, lightboxCloseOverlay, lightboxCloseBtn } from './refs'
 import { toCloseLightbox } from './to-close-lightbox'
 import { lightboxByKey } from './lightbox-by-key'
 

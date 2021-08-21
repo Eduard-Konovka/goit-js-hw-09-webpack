@@ -1,4 +1,4 @@
-import { currentLargeImage } from './accesses'
+import { currentLargeImage } from './refs'
 
 // - Очистка значения атрибута `src` элемента `img.lightbox__image`.
 // Это необходимо для того, чтобы при следующем открытии

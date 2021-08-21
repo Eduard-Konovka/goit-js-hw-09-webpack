@@ -2,7 +2,7 @@
 // ------------------------------ ВСЕ СЛУШАТЕЛИ -------------------------------
 // ----------------------------------------------------------------------------
 
-import { gallery } from './accesses'
+import { gallery } from './refs'
 import { handleNavClick } from './handle-nav-click'
 
 gallery.addEventListener('click', handleNavClick)

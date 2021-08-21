@@ -1,5 +1,5 @@
-import { currentLargeImage } from './accesses'
-import galleryItems from './bd'
+import { currentLargeImage } from './refs'
+import galleryItems from './db'
 
 // - Пролистывание изображений галереи в открытом модальном окне
 // клавишами "влево" и "вправо".

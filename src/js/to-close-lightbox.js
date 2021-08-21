@@ -1,4 +1,4 @@
-import { lightbox, lightboxCloseOverlay, lightboxCloseBtn } from './accesses'
+import { lightbox, lightboxCloseOverlay, lightboxCloseBtn } from './refs'
 import { lightboxByKey } from './lightbox-by-key'
 import { resetLargerImageLink } from './reset-larger-image-link'
 
